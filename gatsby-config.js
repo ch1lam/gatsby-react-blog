@@ -2,7 +2,7 @@
  * @Description  :
  * @Author       : ch1lam
  * @Date         : 2022-01-05 18:51:21
- * @LastEditTime : 2022-01-06 00:59:31
+ * @LastEditTime : 2022-01-06 17:04:53
  * @LastEditors  : chilam
  * @FilePath     : \gatsby-react-blog\gatsby-config.js
  */
@@ -21,5 +21,6 @@ module.exports = {
         path: `${__dirname}/blog`,
       },
     },
+    "gatsby-plugin-mdx",
   ],
 };
