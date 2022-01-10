@@ -2,7 +2,7 @@
  * @Description  :
  * @Author       : ch1lam
  * @Date         : 2022-01-05 18:51:21
- * @LastEditTime : 2022-01-06 17:04:53
+ * @LastEditTime : 2022-01-10 19:35:48
  * @LastEditors  : chilam
  * @FilePath     : \gatsby-react-blog\gatsby-config.js
  */
@@ -22,5 +22,6 @@ module.exports = {
       },
     },
     "gatsby-plugin-mdx",
+    "gatsby-transformer-sharp",
   ],
 };
